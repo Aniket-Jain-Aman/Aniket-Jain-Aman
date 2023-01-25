@@ -55,10 +55,11 @@
 <h2>Coding Profiles </h2>   
 <div align="left">
 <a href="https://codechef.com/users/aniket_aman" target="_blank">
-<img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png width=12% alt=codechef  />
+<img src=https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png width=20% alt=codechef  />
 </a>
+ 
 <a href="https://codeforces.com/profile/aniket_aman" target="_blank">
-<img src=https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png width=12% alt=codechef style="margin:2% 2%;" />
+<img src=https://codeforces.org/s/0/images/codeforces-sponsored-by-ton.png width=20% alt=codechef  />
 </a>  
 </div>  
 <br/>
