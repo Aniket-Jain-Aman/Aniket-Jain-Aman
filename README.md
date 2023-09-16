@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aniket Jain, a passionate developer👨‍💻</div>  
+### <div align="center">I'm a passionate developer👨‍💻</div>  
   
 
 - 🔭 I’m currently pursuing BTech from [MANIT](http://www.manit.ac.in/)  
