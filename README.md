@@ -6,7 +6,7 @@
 ### <div align="center">I'm a passionate developer👨‍💻</div>  
   
 
-- 🔭 I’m currently pursuing BTech from [MANIT](http://www.manit.ac.in/)  
+  
   
 
 - 🌱 I’m currently learning Web development.  
